@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: notif-telegram
+    env: php
+    plan: free
+    buildCommand: ""
+    startCommand: ""
